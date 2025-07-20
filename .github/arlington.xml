@@ -13,3 +13,6 @@
     <com.izforge.izpack.panels.install.InstallPanel id="install"/>
     <com.izforge.izpack.panels.finish.FinishPanel id="finish"/>
 </AutomatedInstallation>
+<html>
+    <head></head>
+    
